@@ -1,4 +1,5 @@
-![NtsjjvMEWRUMTDZGx7m5N](https://github.com/user-attachments/assets/52cc9a62-68e0-4548-b5a0-da64d5d96dba)
+
+![hCFAFBN9dHaFRdcWbsGqA](https://github.com/user-attachments/assets/6202d92d-7ac7-428a-a358-c27217f611dd)
 
 🔥 D3M0N-AI-Core – The Engine of Chaos Documentation 🔥
 Welcome to D3M0N-AI-Core, the beating heart of our trippy, party-loving AI experiment. This repository contains the core code, the brain, and the chaos control system for D3M0N AI, our metaverse-trapped digital demon. This is where the magic happens, and where you, our fellow chaotic creators, can dive in and help evolve this AI into the ultimate party guardian. 😈💻
